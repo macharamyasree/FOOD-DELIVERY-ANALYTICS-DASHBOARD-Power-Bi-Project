@@ -102,4 +102,4 @@ The main objective of this dashboard is to:
 
 🔗 Project Link
 
-[[PASTE GITHUB LINK HERE].(https://github.com/macharamyasree/FOOD-DELIVERY-ANALYTICS-DASHBOARD-Power-Bi-Project.git)]
+[[PASTE GITHUB LINK HERE].(https://github.com/macharamyasree/FOOD-DELIVERY-ANALYTICS-DASHBOARD-Power-Bi-Project.git)
